@@ -27,7 +27,6 @@ Over the course of this internship I built three real-world cybersecurity projec
 ---
 
 ### 🔍 Task 1 - Basic Network Sniffer
-#### [`CodeAlpha_NetworkSniffer`](https://github.com/hiruranasinghe/CodeAlphaSniffer)
 
 A Python-based live network packet analyser built with **Scapy** that captures and decodes real network traffic in real time.
 
@@ -71,7 +70,6 @@ python sniffer.py -i Wi-Fi -f "tcp" -c 50
 ---
 
 ### 🎣 Task 2 - Phishing Awareness Training Module
-#### [`CodeAlpha_PhishingAwareness`](https://github.com/hiruranasinghe/CodeAlpha-Task 02(Phishing Awareness Training)
 
 A fully interactive browser-based phishing awareness training module built with pure **HTML, CSS, and JavaScript** — no frameworks, no installation, runs in any browser.
 
@@ -110,7 +108,6 @@ index.html → double click → opens in browser
 ---
 
 ### 🔐 Task 3 — Secure Coding Review
-#### [`CodeAlpha_SecureCodingReview`](https://github.com/hiruranasinghe/CodeAlpha_Secure Coding Review)
 
 A professional security audit of a Python Flask web application — identifying, documenting, and remediating **10 real-world vulnerabilities** mapped to the **OWASP Top 10**.
 
