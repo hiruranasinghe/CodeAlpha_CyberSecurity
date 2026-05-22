@@ -186,5 +186,5 @@ network security, and threat detection through real-world projects.
 ---
 
 <div align="center">
-<sub>Built with 💙 during CodeAlpha Cybersecurity Internship · Hiruni Ranasinghe · 2024</sub>
+<sub>Built with 💙 during CodeAlpha Cybersecurity Internship · Hiruni Ranasinghe · 2026</sub>
 </div>
